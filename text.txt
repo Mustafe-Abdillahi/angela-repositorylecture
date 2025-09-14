@@ -1,2 +1,2 @@
 Mustafe
-branchkan cusub ayaan wax ku darayaa lkn Masterka waxba kubiirimaayan.
+git merge Mustafe ayaa doonayaa.
